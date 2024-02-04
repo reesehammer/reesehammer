@@ -552,7 +552,7 @@ input:checked + .slider:before, .darkmode .slider:before {
 }
 
 .img-2 {
-    height: 530px;
+    height: 300px;
     background-size: cover;
     background-position: 50% 50%;
     border-top-right-radius: 6px;
@@ -917,7 +917,7 @@ looks like we might have to add to classes at the same time, but that's kind
 		margin-left: 0px;
 	}
 	.img-2 {
-		height: 330px;
+		height: 150px;
 	}
 	.horz .img-2 {
 		width: 100%;
